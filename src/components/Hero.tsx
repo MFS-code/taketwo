@@ -28,7 +28,7 @@ export default function Hero() {
               alt="Ink drawing of a tree"
               width={518}
               height={672}
-              className="h-auto w-[280px] rounded-[100px] md:w-[400px] lg:w-[460px]"
+              className="h-auto w-[280px] md:w-[400px] lg:w-[460px]"
               priority
             />
           </div>
