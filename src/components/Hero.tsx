@@ -26,8 +26,8 @@ export default function Hero() {
             <Image
               src="/images/tree-cutout.png"
               alt="Ink drawing of a tree"
-              width={518}
-              height={672}
+              width={630}
+              height={918}
               className="h-auto w-[280px] md:w-[400px] lg:w-[460px]"
               priority
             />
