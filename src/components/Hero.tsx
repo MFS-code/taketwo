@@ -38,7 +38,7 @@ export default function Hero() {
             className="absolute z-20"
             style={{
               left: "72%",
-              top: "62%",
+              top: "56%",
               opacity: mounted ? 1 : 0,
               transition: "opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.1s",
             }}
